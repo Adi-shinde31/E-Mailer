@@ -1,0 +1,18 @@
+{
+  "name": "contactform_email",
+  "version": "1.0.0",
+  "description": "A simple project to send emails using node.js, express.js and nodemailer",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aditya Shinde",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.3"
+  }
+}
